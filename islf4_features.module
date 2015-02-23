@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the islf4 feature.
+ */
+
+include_once 'islf4_features.features.inc';
